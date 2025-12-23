@@ -1,1 +1,1 @@
-# End to End Lead Scoring and Management Course
+# End to End Lead Scoring and Management
